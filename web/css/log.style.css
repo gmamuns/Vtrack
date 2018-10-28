@@ -1,0 +1,62 @@
+body,td,th {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #000000;
+}
+a:link {
+	text-decoration: none;
+	color: #000000;
+}
+a:visited {
+	text-decoration: none;
+	color: #000000;
+	}
+a:hover {
+	text-decoration: none;
+	color: #FFF;
+	}
+a:active {
+	text-decoration: none;
+	color: #000000;
+	}
+.inputtext {
+	border:1px #999999 solid;								
+	height:22px; width:170px;
+	font-size:13px; 
+	background-color:#D6D6D6;
+	}
+.inputbuttom {
+	border:1px #00S444 solid;
+	background-color:#01AAE6;
+	border-color:#000;
+	/*border-style:groove;*/ 
+        cursor: pointer;
+	}
+.inputbuttom:hover {
+	background-color:#0CC;
+	/*border-color:#000;*/	
+	}
+.menu_style {font-family: Arial, Helvetica; font-size: 14px; color: #000000; font-weight: bold; CURSOR: pointer;}
+
+
+
+
+.a_Link:link {
+	text-decoration: none;
+	color: #000;
+	}
+.a_Link:hover {
+	text-decoration: none;
+	color: #999;
+	}
+
+
+
+

@@ -1,0 +1,116 @@
+*{margin:0; padding:0; outline:0;}
+body{font-family:arail; font-size:15; line-height:18px;
+       color:#000000; background-color:#000000; }
+
+.templete {width:950px; margin:0 auto; background:#; 
+           margin-bottom:1px;border:0px solid silver; }
+.clear{overflow:hidden;}
+
+.headersection {height:130px; background-color:white; margin-top:20px;}
+
+
+
+
+
+/* drop down design start  */
+
+
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 16px;    
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+	color:black;
+    background-color: #01AAE6;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 100px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: #99B3CC;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
+
+/* drop down end */
+
+
+
+
+
+
+
+
+
+		  
+
+.slidesection {height:400px; width:950px;}
+ 
+
+
+
+
+
+					 
+					 
+					 
+					 
+.footer{height:33px; background-color:#CDC8C9;}	
+
+	
+
+			 			 
+		
+
+
+
+
+
+
